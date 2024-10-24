@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const dataBase = "mongodb://localhost:27017/Recipe";
+const dataBase = process.env.MONGODB_URI;
 
 async function connect() {
   try {
