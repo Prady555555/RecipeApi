@@ -24,3 +24,9 @@ A simple CRUD application for managing recipes built with Node.js, Express.js, a
 ### 5. Delete a recipe by ID
 - **Method**: `DELETE`
 - **Endpoint**: `/recipe/:id`
+
+## Postman Documentation
+
+You can access the complete API documentation on Postman via this link:
+
+[Recipes API Postman Documentation](https://documenter.getpostman.com/view/29619028/2sAY4shPRi)
